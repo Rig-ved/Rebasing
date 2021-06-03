@@ -1,1 +1,3 @@
 Third file in feature breancj
+Modifying changes in the detached head state
+
