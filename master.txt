@@ -2,4 +2,6 @@ Hello , Git in Rebase master
 Created in the detached head state
 Changes in remote branch by karthik
 Changes in local branch by Anirban
-
+Changes in Remote branch by Sam
+Changes in local Branch by Sam
+Changes in local Branch by Anirban 
