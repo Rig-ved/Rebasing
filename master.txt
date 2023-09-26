@@ -10,6 +10,10 @@ Changes in local Branch by Anirban
 
 
 <Again few more changes in branch 152 >
+<<<<<<< HEAD
 Changes in main branch by Karthik
 <Changes in the main by another developer>
 <Changes in the main by another developer>
+=======
+Hello Changes made in feature branch by Anirban
+>>>>>>> 4fc192a (Feature changes completed)
