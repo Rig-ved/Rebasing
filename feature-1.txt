@@ -10,4 +10,5 @@ Modifying changes in the detached head state
 <Changes in the main by another developer>
 
 <Feature-2>.txt changes in feature branch by Anirban
+Changes in feature text by Karthik in main
 
