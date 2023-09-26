@@ -3,5 +3,6 @@ Hello , Git in Rebase master in creating second file
 Hey this is the new line added 
 Bew Changes
 New Changes in remote branch (karthik)
-New Changes from local developer(Rick)
+New Changes from local developer(Rick)gst
+Hello 
 New Changes from local dev
